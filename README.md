@@ -129,6 +129,11 @@ For detailed guides on how individual components are built and the math behind t
 
 ---
 
+🤝 Collaborated with:
+Samia Sultana
+Muhammad Raihan Molla
+Md. Emam Zafor Saadik
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
